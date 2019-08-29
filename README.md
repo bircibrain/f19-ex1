@@ -23,7 +23,7 @@ This assignment is due by 11:59PM ET 9/7.
 
 Once you have completed the course, 
 
-1. [Fork](https://help.github.com/articles/fork-a-repo/) the [HW 1 repository](https://github.com/bircibrain/f19-hw1) from the GitHub page.
+1. [Fork](https://help.github.com/articles/fork-a-repo/) the [HW 1 repository](https://github.com/bircibrain/f19-ex1) from the GitHub page.
 2. Clone the repository to your computer using `git` so that you have your own copy to edit and submit.
 
 ## Install required software
