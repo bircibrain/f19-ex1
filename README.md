@@ -30,6 +30,7 @@ Once you have completed the course,
 
 Please download and install the following *required* software:
 
+- [ ] [XQuartz](https://www.xquartz.org). This is required for the FSL GUI to work.
 - [ ] For MRI analysis: [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslInstallation) (big download!). Make sure that you can successfully run the commands `fsl` and `fsleyes` from the command line.
 - [ ] Running containers: [Docker](https://hub.docker.com/editions/community/docker-ce-desktop-mac)
 
